@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GhActionsTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43a38e0bd143dc170aef8d08724c35c2b91e95b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1b1a4190e5f9b803bbfac41161045d634772c59")]
 [assembly: System.Reflection.AssemblyProductAttribute("GhActionsTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GhActionsTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
