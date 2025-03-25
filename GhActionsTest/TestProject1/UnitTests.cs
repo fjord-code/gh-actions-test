@@ -3,9 +3,9 @@ namespace TestProject1
     public class UnitTests
     {
         [Fact]
-        public void InvalidTest()
+        public void ValidTest()
         {
-            Assert.Equal(1, 2);
+            Assert.Equal(2, 2);
         }
     }
 }
