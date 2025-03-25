@@ -1,0 +1,6 @@
+@GhActionsTest_HostAddress = http://localhost:5201
+
+GET {{GhActionsTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
